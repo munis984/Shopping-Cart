@@ -1,0 +1,42 @@
+.App{
+  max-width: 1133px;
+  max-height: 744px;
+  background-color: white;
+  border-radius: 15px;
+  font-family: "Poppins", sans-serif;
+  padding: 45px;
+  display: flex;
+  flex-direction: row;
+}
+
+.App .shopContinue{
+  font-weight: 600;
+  font-size: 18px;
+  color:#1E1E1E;
+}
+.App svg{
+  margin-right: 10px;
+}
+
+.App hr{
+  width: 608px;
+  margin: 20px 0 20px 0;
+  color: #D0CFCF;
+  border-width: 1.5px;
+}
+
+.App h2{
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  color:#1E1E1E;
+}
+
+.App .numOfItems{
+ font-size: 14px;
+ font-weight: 500;
+ line-height: 19px;
+ font-family: "Nunito", sans-serif;
+ color:#1E1E1E;
+}
+
